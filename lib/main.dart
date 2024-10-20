@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:go_router/go_router.dart';
-import './ui/screens/welcome/welcome_screen.dart';
-import './ui/screens/register/register_screen.dart';
 import './router.dart';
 import 'package:book_flix/utils/colors/global_colors.dart';
 
